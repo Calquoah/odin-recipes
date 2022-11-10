@@ -1,8 +1,10 @@
 div {
-    color: burlywood;
-    background-color: green;
+    color: greenyellow;;
+    text-align: center;
 }
 
-p {
-    color: red;
+.page.background {
+    
+    background-color: aquamarine;
+
 }
