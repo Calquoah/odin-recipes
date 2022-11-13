@@ -1,10 +1,18 @@
 div {
-    color: greenyellow;;
+    color: greenyellow;
     text-align: center;
 }
 
-.page.background {
-    
-    background-color: aquamarine;
+.image {
+align-items: center;
+}
 
+.subtitle {
+    color: greenyellow;
+    text-align: center;
+    font-size: 20px;
+}
+
+.links {
+    text-align: center;
 }
