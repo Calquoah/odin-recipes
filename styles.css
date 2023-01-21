@@ -2,9 +2,14 @@ body {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("img/italy-flag-wavy.gif");
-    background-size: cover;
+    font-family: Grado;
 }
+
+@font-face {
+    src: url("fonts/GradoGradooNF.ttf");
+    font-family: Grado;
+}
+
 
 #title {
     color: springgreen;
