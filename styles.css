@@ -3,6 +3,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-family: Grado;
+    border: 2px dotted black;
+    background-image: url("img/italy-flag-2.jpeg");
+    background-size: cover;
+    background-position: center;
 }
 
 @font-face {
@@ -12,6 +16,17 @@ body {
 
 
 #title {
-    color: springgreen;
+    color: #019884;
+    text-shadow: 2px 2px 0px black;
+}
+
+#subtitle {
+    color: #019884;
+    text-shadow: 2px 2px 0px black;
+}
+
+.boat {
+    border: 2px solid red;
+    border-radius: 5%;
 }
 
