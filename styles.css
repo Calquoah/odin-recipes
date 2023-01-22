@@ -2,9 +2,8 @@ body {
     text-align: center;
     font-family: Grado;
     border: 2px dotted black;
-    background-image: url("img/italy-flag-2.jpeg");
-    background-size: cover;
-    background-position: center;
+    background: rgb(39,163,0);
+    background: linear-gradient(90deg, rgba(39,163,0,1) 0%, rgba(254,250,245,1) 35%, rgba(255,0,0,1) 100%);
 }
 
 @font-face {
@@ -32,5 +31,3 @@ body {
     border: 2px dotted black;
     text-align: left;
 }
-
-
