@@ -22,7 +22,18 @@ body {
     text-shadow: 2px 2px 0px black;
 }
 
-.img {
+#img-main {
+    background-image: url("https://media.giphy.com/media/ZZqaNf5J9i43m/giphy.gif");
+    background-size: cover;
+    border: 2px solid #019884;
+    border-radius: 5%;
+    padding: 250px 250px;
+    margin: -10px 225px 10px 225px;
+}
+
+.img-dish {
+    width: 500px;
+    height: 325px;
     border: 2px solid red;
     border-radius: 5%;
 }
