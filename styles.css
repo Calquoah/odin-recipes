@@ -31,6 +31,45 @@ body {
     margin: -10px 225px 10px 225px;
 }
 
+.button {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+.button-sarde {
+    padding: 40px;
+    border: 2px solid #019884;
+    background-image: url("img/sarde-in-saor.jpg");
+    background-size: cover;
+    border-radius: 25%;
+}
+
+.button-norma {
+    border: 2px solid #019884;
+    padding: 30px;
+    background-image: url("img/pasta-alla-norma.jpg");
+    background-size: cover;
+    border-radius: 25%;
+}
+
+.button-nduja {
+    border: 2px solid #019884;
+    padding: 25px;
+    background-image: url("img/pasta-con-nduja.jpg");
+    background-size: cover;
+    border-radius: 25%;
+}
+
+.button-arancini {
+    border: 2px solid #019884;
+    padding: 50px;
+    background-image: url("img/arancini.jpg");
+    background-size: cover;
+    border-radius: 25%;
+}
+
 .img-dish {
     width: 500px;
     height: 325px;
