@@ -2,8 +2,7 @@ body {
     text-align: center;
     font-family: Grado;
     border: 2px dotted black;
-    background: rgb(39,163,0);
-    background: linear-gradient(90deg, rgba(39,163,0,1) 0%, rgba(254,250,245,1) 35%, rgba(255,0,0,1) 100%);
+    background: #E6CF73;
 }
 
 @font-face {
@@ -23,7 +22,7 @@ body {
 }
 
 #img-main {
-    background-image: url("https://media.giphy.com/media/ZZqaNf5J9i43m/giphy.gif");
+    background-image: url("img/seaside-sicily.jpg");
     background-size: cover;
     border: 2px solid #019884;
     border-radius: 5%;
